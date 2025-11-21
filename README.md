@@ -1,4 +1,4 @@
-# Test-rep
+# Example of README.md
 for testing purposes
 
 *italics*
